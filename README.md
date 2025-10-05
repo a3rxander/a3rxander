@@ -1,6 +1,5 @@
-## Hi there 👋 I'm Alex PA  
-
-I'm a **Full-Stack Developer** from 🇵🇦 **Panama** with over **10 years of experience** building robust web applications, APIs, and distributed systems.  
+ 
+I'm a **Full-Stack Developer** from **Panama** with over **10 years of experience** building robust web applications, APIs, and distributed systems.  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=a3rxander&show_icons=true&theme=tokyonight)
 
