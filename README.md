@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there 👋 I'm Alex PA  
 
-<!--
-**a3rxander/a3rxander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full-Stack Developer** from 🇵🇦 **Panama** with over **10 years of experience** building robust web applications, APIs, and distributed systems.  
 
-Here are some ideas to get you started:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=a3rxander&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 What I Do
+- **Backend:** PHP (Laravel), .NET (C#), SQL Server, MySQL, Oracle  
+- **Frontend:** React, Vue.js, TypeScript, Tailwind  
+- **DevOps:** Docker, GitLab CI/CD, Kafka, Redis, Horizon, Elasticsearch  
+
+### 🌱 Currently Learning
+- Advanced **.NET API versioning** and **clean DDD architecture**
+- **React** structure patterns for large-scale SPAs  
+
+
+### 📫 Connect
+- 🌐 [LinkedIn](https://linkedin.com/in/a3rxander)  
+- 💻 [GitHub Stats](https://github-readme-stats.vercel.app/api?username=a3rxander&show_icons=true&theme=tokyonight)
+ 
