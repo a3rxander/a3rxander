@@ -14,7 +14,7 @@ I'm a **Full-Stack Developer** from **Panama** with over **10 years of experienc
 
 
 ### 📫 Connect
-- 🌐 [LinkedIn](https://linkedin.com/in/a3rxander)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/alexander-agrazal/)
 - 🌐 [Medium](https://medium.com/@a3rxander)
   
  
